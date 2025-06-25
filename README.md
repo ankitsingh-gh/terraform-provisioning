@@ -17,7 +17,7 @@ This project automates the provisioning of AWS infrastructure and deploys a simp
 ✅ Creates a VPC, subnets, internet gateway, and route tables  
 ✅ Launches an EC2 instance (Ubuntu) in a public subnet  
 ✅ Deploys a Flask app automatically on the EC2 instance using
-✅ Opens port **5000** in the security group for HTTP access
+
 
 
 
