@@ -1,6 +1,6 @@
 # Terraform-Provisioning
 
-# 🌐 Infrastructure as Code Project: Deploy Python App on AWS using Terraform
+# Infrastructure as Code Project: Deploy Python App on AWS using Terraform
 
 This project automates the provisioning of AWS infrastructure and deploys a simple **Python Flask web application** on an EC2 instance using **Terraform**. It follows Infrastructure as Code (IaC) best practices to deliver a repeatable, automated cloud environment.
 
