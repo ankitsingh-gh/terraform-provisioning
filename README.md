@@ -4,7 +4,7 @@
 
 This project automates the provisioning of AWS infrastructure and deploys a simple **Python Flask web application** on an EC2 instance using **Terraform**. It follows Infrastructure as Code (IaC) best practices to deliver a repeatable, automated cloud environment.
 
-## ⚙️ Tools & Technologies
+ Tools & Technologies
 
 - **Terraform** – Infrastructure as Code
 - **AWS EC2, VPC, Subnet, Security Group** – Cloud resources
