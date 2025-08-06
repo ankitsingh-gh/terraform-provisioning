@@ -6,11 +6,11 @@ This project automates the provisioning of AWS infrastructure and deploys a simp
 
  Tools & Technologies
 
-- **Terraform** – Infrastructure as Code
-- **AWS EC2, VPC, Subnet, Security Group** – Cloud resources
-- **Flask** – Python micro web framework
-- **Linux Shell Script (user data)** – For bootstrapping EC2
-- **GitHub** – Version control
+- Terraform** – Infrastructure as Code
+- AWS EC2, VPC, Subnet, Security Group** – Cloud resources
+- Flask – Python micro web framework
+   – For bootstrapping EC2
+- GitHhub – Version control
 
  What This Project Does
 
