@@ -1,4 +1,4 @@
-2 Terraform-Provisioning
+. Terraform-Provisioning
 
 Infrastructure as Code Project: Deploy Python App on AWS using Terraform
 
